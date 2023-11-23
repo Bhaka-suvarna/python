@@ -1,0 +1,15 @@
+mobile_numbers:
+9591619191
+7788992233
+1644164416
+9591619191
+7788992233
+1644164416
+9591619191
+7788992233
+1644164416
+
+email_addresses:
+rahul@tcs.com
+hr@greetlabs.com
+hr@greetlabs.com

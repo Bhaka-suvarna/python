@@ -1,8 +1,6 @@
 import re
-mno = input("Enter Mobile Number::::")
-
+mno = input("Enter Mobile :")
 match = re.fullmatch('[6-9]\d{9}', mno)
-
 if match != None:
     print("Valid Mobile Number")
 else:
